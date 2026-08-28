@@ -35,5 +35,5 @@ https://mern-gallery.vercel.app/create-post
 
 ## Backend API
 
-https://mern-gallery-k9ni.onrender.com
+https://mern-gallery-k9ni.onrender.com/posts
 
